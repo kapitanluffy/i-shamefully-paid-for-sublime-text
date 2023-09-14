@@ -44,6 +44,7 @@ Are you one of those who bravely admit to having paid for a Sublime Text license
 - kapitanluffy - [@github](https://github.com/kapitanluffy)
 - arjunmehta - [@github](https://github.com/arjunmehta) [@flickr](https://flickr.com/mrdoodle)
 - bradley-curran - [@github](https://github.com/bradley-curran)
+- nmeyer - [@github](https://github.com/nmeyer)
 - [Add your name here!] - [@your-online-presence](#)
 
 To become a part of this esteemed fellowship, simply [fork](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text/fork) this repository, add your name to the list, and submit a pull request. Let's embrace the shame and solidarity of supporting a fantastic text editor!
