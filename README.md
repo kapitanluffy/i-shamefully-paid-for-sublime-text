@@ -45,6 +45,7 @@ Are you one of those who bravely admit to having paid for a Sublime Text license
 - arjunmehta - [@github](https://github.com/arjunmehta) [@flickr](https://flickr.com/mrdoodle)
 - bradley-curran - [@github](https://github.com/bradley-curran)
 - nmeyer - [@github](https://github.com/nmeyer)
+- mandx - [@github](https://github.com/mandx) (no shame at all, also paid for SublimeMerge)
 - josecolella - [@github](https://github.com/josecolella)
 - [Add your name here!] - [@your-online-presence](#)
 
