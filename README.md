@@ -42,7 +42,7 @@ Are you one of those who bravely admit to having paid for a Sublime Text license
 **List of Shameful Sublime Text License Holders:**
 
 1. kapitanluffy - [@github](https://github.com/kapitanluffy)
-2. [Add your name here!] - [@your-online-presence](#)
+2. arjunmehta - [@github](https://github.com/arjunmehta) [@flickr](https://flickr.com/mrdoodle)
 
 To become a part of this esteemed fellowship, simply [fork](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text/fork) this repository, add your name to the list, and submit a pull request. Let's embrace the shame and solidarity of supporting a fantastic text editor!
 
