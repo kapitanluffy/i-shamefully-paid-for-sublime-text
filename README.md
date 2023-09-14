@@ -49,6 +49,7 @@ Are you one of those who bravely admit to having paid for a Sublime Text license
 - josecolella - [@github](https://github.com/josecolella)
 - btbytes - [@github](https://github.com/btbytes)
 - brajeshwar - [@web](https://brajeshwar.com)
+- duke64 - [@github](https://github.com/tomdittrich) [@codeberg](https://codeberg.org/Duke64) (also paid for SublimeMerge)
 - ncreuschling - [@web](https://github.com/ncreuschling)
 - [Add your name here!] - [@your-online-presence](#)
 
