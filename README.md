@@ -50,6 +50,7 @@ Are you one of those who bravely admit to having paid for a Sublime Text license
 - btbytes - [@github](https://github.com/btbytes)
 - brajeshwar - [@web](https://brajeshwar.com)
 - ncreuschling - [@web](https://github.com/ncreuschling)
+- [dragos240] - [@github](#https://github.com/dragos240)
 - [Add your name here!] - [@your-online-presence](#)
 
 To become a part of this esteemed fellowship, simply [fork](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text/fork) this repository, add your name to the list, and submit a pull request. Let's embrace the shame and solidarity of supporting a fantastic text editor!
