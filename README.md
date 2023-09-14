@@ -50,6 +50,7 @@ Are you one of those who bravely admit to having paid for a Sublime Text license
 - btbytes - [@github](https://github.com/btbytes)
 - brajeshwar - [@web](https://brajeshwar.com)
 - duke64 - [@github](https://github.com/tomdittrich) [@codeberg](https://codeberg.org/Duke64) (also paid for SublimeMerge)
+- ncreuschling - [@web](https://github.com/ncreuschling)
 - [Add your name here!] - [@your-online-presence](#)
 
 To become a part of this esteemed fellowship, simply [fork](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text/fork) this repository, add your name to the list, and submit a pull request. Let's embrace the shame and solidarity of supporting a fantastic text editor!
