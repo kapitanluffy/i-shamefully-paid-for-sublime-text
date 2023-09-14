@@ -52,6 +52,8 @@ And here's a badge to display your ![#sublimeshame](https://img.shields.io/badge
 ![#sublimeshame](https://img.shields.io/badge/%23sublimeshame-383D40?logo=sublimetext)
 ```
 
+Also, If you ever got stuck about something or just want to hangout with other ST users, head over to Sublime Text's unofficial [Discord](https://discord.com/invite/D43Pecu)
+
 ---
 
 <sub>
