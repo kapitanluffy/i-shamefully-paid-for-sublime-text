@@ -57,6 +57,7 @@ Are you one of those who bravely admit to having paid for a Sublime Text license
 - wkhere - [@github](https://github.com/wkhere) (paid for Sublime 2, again for version 4, and also for Sublime Merge)
 - royaltm - [@github](https://github.com/royaltm) (slightly cheated paying for a combo Sublime Text + Merge)
 - darnfish - [@web](https://darn.fish) [@github](https://github.com/darnfish)
+- cmtt - [@web](https://thoemm.es) [@github](https://github.com/cmtt)
 - [Add your name here!] - [@your-online-presence](#)
 
 To become a part of this esteemed fellowship, simply [fork](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text/fork) this repository, add your name to the list, and submit a pull request. Let's embrace the shame and solidarity of supporting a fantastic text editor!
