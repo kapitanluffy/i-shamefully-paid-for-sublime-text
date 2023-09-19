@@ -61,6 +61,7 @@ Are you one of those who bravely admit to having paid for a Sublime Text license
 - v - [@web](https://avi.im) [@github](https://github.com/avinassh)
 - danyou - [@github](https://github.com/danielyu2003) [@web](https://blog.danielyu.us/) (Sublime Text + Merge user!)
 - simonhamp - [@web](https://simonhamp.me/) (didn't pay for Merge because I never use it)
+- agam - [@web](https://agambrahma.com) [@github](https://github.com/agam) -- _no shame at all, have a Sublime Merge license too!_
 - [Add your name here!] - [@your-online-presence](#)
 
 To become a part of this esteemed fellowship, simply [fork](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text/fork) this repository, add your name to the list, and submit a pull request. Let's embrace the shame and solidarity of supporting a fantastic text editor!
